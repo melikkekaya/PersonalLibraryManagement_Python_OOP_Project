@@ -45,7 +45,3 @@ book2 = Library("Hacı Murat", "Tolstoy")
 Library.new_book([("İnsancıklar", "Dostoyevski"), ("Ölümcül Kimlikler", "Amin Maalouf")])
 
 Library.display_booklist()
-
-# print(Library.available_book_list)
-
-# print(book1.__dict__["book_name"])
